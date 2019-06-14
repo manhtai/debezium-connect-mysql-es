@@ -9,3 +9,9 @@
 ```
 docker pull manhtai/debezium-connect-mysql-es:0.9
 ```
+
+## Credit
+
+Postgres version:
+
+https://github.com/debezium/debezium-examples/blob/master/unwrap-smt/debezium-jdbc-es/Dockerfile
